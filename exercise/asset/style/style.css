@@ -1,0 +1,47 @@
+body{
+    position: relative;
+    background: #FBFAF7;
+}
+.wrap{
+    max-width: 2500px;
+    margin-block: 0rem;
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D3B68D;
+    ;
+}
+.header a{
+    padding: 2rem;
+    text-decoration: none;
+    color: white;
+}
+.header .liens{
+    display: flex;
+    align-items: center;
+}
+.header .btn a{
+    background-color: green;
+    border-radius: 5px;
+}
+.header .btn img{
+    position: relative;
+    top: 5px;
+    margin-right: 1rem;
+}
+.header .logo{
+    position: relative; 
+    top: 40px;
+}
+.header .btn a{
+    padding: .5rem;
+    
+}
+
+.btn{
+    align-items: center;
+}
